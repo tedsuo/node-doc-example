@@ -1,1 +1,1 @@
-node.js documentation: proposal for a new table of contents.
+node.js documentation: minimalist proposal for a new table of contents.
